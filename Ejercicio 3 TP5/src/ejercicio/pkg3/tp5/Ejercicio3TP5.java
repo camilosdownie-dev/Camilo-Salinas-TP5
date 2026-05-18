@@ -29,7 +29,7 @@ public class Ejercicio3TP5 {
     }
           for(int contador = 0 ; contador < filas ; contador ++){
         for(int contador2 = 0 ; contador2 < columnas ; contador2 ++){
-            System.out.print(i[contador][contador2] + " ");2
+            System.out.print(i[contador][contador2] + " ");
         }
         System.out.println(" ");
     }
